@@ -1,16 +1,7 @@
 /**
  * Title: Write a program using JavaScript on Index
- * Author: Hasibul Islam
- * Portfolio: https://devhasibulislam.vercel.app
- * Linkedin: https://linkedin.com/in/devhasibulislam
- * GitHub: https://github.com/devhasibulislam
- * Facebook: https://facebook.com/devhasibulislam
- * Instagram: https://instagram.com/devhasibulislam
- * Twitter: https://twitter.com/devhasibulislam
- * Pinterest: https://pinterest.com/devhasibulislam
- * WhatsApp: https://wa.me/8801906315901
- * Telegram: devhasibulislam
- * Date: 02, November 2023
+ * Author: Mst.Suraiya
+ * Date: 04, November 2023
  */
 
 import React, { useState } from "react";
@@ -40,10 +31,7 @@ const images = [
     { id: 10, thumbnail:img10},
     { id: 11, thumbnail: img11 },
   ];
-  
 
-
-// const inter = Inter({ subsets: ["latin"] });
 
 const Index = () => {
   const [selectThumbnails, setSelectThumbnails] = useState([]);

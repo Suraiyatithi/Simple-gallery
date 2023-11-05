@@ -1,23 +1,13 @@
 /**
  * Title: Write a program using JavaScript on Gallery
- * Author: Hasibul Islam
- * Portfolio: https://devhasibulislam.vercel.app
- * Linkedin: https://linkedin.com/in/devhasibulislam
- * GitHub: https://github.com/devhasibulislam
- * Facebook: https://facebook.com/devhasibulislam
- * Instagram: https://instagram.com/devhasibulislam
- * Twitter: https://twitter.com/devhasibulislam
- * Pinterest: https://pinterest.com/devhasibulislam
- * WhatsApp: https://wa.me/8801906315901
- * Telegram: devhasibulislam
- * Date: 02, November 2023
+ * Author: Mst.Suraiya
+ * Date: 04, November 2023
  */
 
 import React, { useState } from "react";
 import GalleryHeader from "./GalleryHeader";
 import GalleryImage from "./GalleryImage";
 import ImageUploader from "./ImageUploader";
-// import { Inter } from "next/font/google";
 import img1 from '../assets/images/image-1.webp'
 import img2 from '../assets/images/image-2.webp'
 import img3 from '../assets/images/image-3.webp'
